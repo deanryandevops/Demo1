@@ -10,4 +10,6 @@ you are on are familiar with their products but you expect two new staff to onbo
 few weeks. 
 
 Create user database #3 letting teams member knows what is needed
+
+issue #2 is blocked until issue #3 is complete
  
