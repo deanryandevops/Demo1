@@ -8,3 +8,8 @@ messaging to an existing collaboration tool. The organization that has requested
 functionality are a long standing customer. They expect fast results with high quality. The team
 you are on are familiar with their products but you expect two new staff to onboard in the next
 few weeks. 
+
+Create user database #3 letting teams member knows what is needed
+
+issue #2 is blocked until issue #3 is complete
+ 
