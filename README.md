@@ -8,3 +8,5 @@ messaging to an existing collaboration tool. The organization that has requested
 functionality are a long standing customer. They expect fast results with high quality. The team
 you are on are familiar with their products but you expect two new staff to onboard in the next
 few weeks. 
+
+UPDATED FILE TO TEST THE FEATURE FOR ISSUE #2 - Implement Create Account page
