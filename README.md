@@ -1,4 +1,3 @@
-#this is a basic file
 #Author: Dean Ryan
 
 Project information
